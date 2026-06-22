@@ -80,5 +80,6 @@ The Documentation agent in KAIZEN is used to keep project documentation synchron
 
 Sources:
 - sample_files\kaizen_overview.txt
-- 
+- VJTI.txt
+  
 ### THANK YOU   o(=•ェ•=)m
