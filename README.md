@@ -1,6 +1,6 @@
 #    ""DOCVERSE""- 🤖🤖🤖 RAG-Powered File Chatbot 
 
-## clearLocal Document Question Answering System
+## Local Document Question Answering System
 
 This project is a simple terminal chatbot that answers questions about files on your computer. It reads '.txt' and '.pdf' files from a folder, splits them into chunks, stores searchable embeddings in ChromaDB, retrieves the most relevant chunks for each question, and asks an LLM to answer only from those chunks.
 
