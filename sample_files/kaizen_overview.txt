@@ -1,0 +1,9 @@
+                 WHAT IS KAIZEN  🤖🤖 !??
+                 
+1] KAIZEN is a multi-agent AI development assistant.
+2] It uses a Planner agent to break a natural language instruction into steps.
+3] It uses a Coder agent to implement changes with awareness of the existing codebase.
+4] It uses a Test agent to run tests and send failures back for fixes.
+5] It uses a Documentation agent to keep project documentation synchronized with code changes.
+6] It uses a GitHub agent to prepare commits and pull requests.
+7] The RAG system indexes repository files so agents can retrieve relevant code context before generating answers or edits.
