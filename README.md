@@ -80,16 +80,5 @@ The Documentation agent in KAIZEN is used to keep project documentation synchron
 
 Sources:
 - sample_files\kaizen_overview.txt
-
-## Project Structure
-
-├── src/
-│   └── rag_chatbot.py
-├── sample_files/
-│   ├── kaizen_overview.txt
-│   └── VJTI.txt
-├── requirements.txt
-├── README.md
-
-
+- 
 ### THANK YOU   o(=•ェ•=)m
